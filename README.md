@@ -19,6 +19,7 @@ php artisan migrate
 After that, the Laravel application is up and can be seen.
 
 **Note 1**: The code here was based on this other [repository](https://github.com/pedrinhonasc/laravel_image_1) that constains the first part of the challenge.
+
 **Note 2**: A image based on the app container can be pulled from [here](https://hub.docker.com/r/jpedronascimentofilho/laravel).
 
 
